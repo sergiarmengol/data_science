@@ -1,0 +1,64 @@
+SNo,City,Country,Continent,Summer,Winter,Season,Year,Opening Ceremony,Closing Ceremony
+1,Athens, Greece,Europe,I,—,Summer,1896,Apr-06,Apr-15
+2,Paris, France,Europe,II,—,Summer,1900,May-14,Oct-28
+3,St. Louis, United States,North America,III,—,Summer,1904,Jul-01,Nov-23
+4,Athens, Greece,Europe,,—,Summer,1906,Apr-22,May-02
+5,London, United Kingdom,Europe,IV,—,Summer,1908,Apr-27,Oct-31
+6,Stockholm, Sweden,Europe,V,—,Summer,1912,May-05,Jul-22
+7,Berlin, Germany,Europe,VI,—,Summer,1916,Cancelled due to WWI,
+8,Antwerp, Belgium,Europe,VII,—,Summer,1920,Apr-20,Sep-12
+9,Chamonix, France,Europe,—,I,Winter,1924,Jan-25,Feb-04
+10,Paris, France,Europe,VIII,—,Summer,1924,May-04,Jul-27
+11,St. Moritz,  Switzerland,Europe,—,II,Winter,1928,Feb-11,Feb-19
+12,Amsterdam, Netherlands,Europe,IX,—,Summer,1928,May-17,Aug-12
+13,Lake Placid, United States,North America,—,III,Winter,1932,Feb-04,Feb-15
+14,Los Angeles, United States,North America,X,—,Summer,1932,Jul-30,Aug-14
+15,Garmisch-Partenkirchen, Germany,Europe,—,IV,Winter,1936,Feb-06,Feb-16
+16,Berlin, Germany,Europe,XI,—,Summer,1936,Aug-01,Aug-16
+17,Sapporo, Japan,Asia,—,V,Winter,1940,Cancelled due to WWII,
+18,Tokyo, Japan,Asia,XII,—,Summer,1940,Cancelled due to WWII,
+19,Cortina d'Ampezzo, Italy,Europe,—,V,Winter,1944,Cancelled due to WWII,
+20,London, United Kingdom,Europe,XIII,—,Summer,1944,Cancelled due to WWII,
+21,St. Moritz,  Switzerland,Europe,—,V,Winter,1948,Jan-30,Feb-08
+22,London, United Kingdom,Europe,XIV,—,Summer,1948,Jul-29,Aug-14
+23,Oslo, Norway,Europe,—,VI,Winter,1952,Feb-14,Feb-25
+24,Helsinki, Finland,Europe,XV,—,Summer,1952,Jul-19,Aug-03
+25,Cortina d'Ampezzo, Italy,Europe,—,VII,Winter,1956,Jan-26,Feb-05
+26,Melbourne, Australia,Oceania,XVI,—,Summer,1956,Nov-22,Dec-08
+,Stockholm, Sweden,Europe,,,,,Jun-10,Jun-17
+27,Squaw Valley, United States,North America,—,VIII,Winter,1960,Feb-18,Feb-28
+28,Rome, Italy,Europe,XVII,—,Summer,1960,Aug-25,Sep-11
+29,Innsbruck, Austria,Europe,—,IX,Winter,1964,Jan-29,Feb-09
+30,Tokyo, Japan,Asia,XVIII,—,Summer,1964,Oct-10,Oct-24
+31,Grenoble, France,Europe,—,X,Winter,1968,Feb-06,Feb-18
+32,Mexico City, Mexico,North America,XIX,—,Summer,1968,Oct-12,Oct-27
+33,Sapporo, Japan,Asia,—,XI,Winter,1972,Feb-03,Feb-13
+34,Munich, West Germany,Europe,XX,—,Summer,1972,Aug-26,Sep-11
+35,Innsbruck, Austria,Europe,—,XII,Winter,1976,Feb-04,Feb-15
+36,Montreal, Canada,North America,XXI,—,Summer,1976,Jul-17,Aug-01
+37,Lake Placid, United States,North America,—,XIII,Winter,1980,Feb-12,Feb-24
+38,Moscow, Soviet Union,Europe,XXII,—,Summer,1980,Jul-19,Aug-03
+39,Sarajevo, Yugoslavia,Europe,—,XIV,Winter,1984,Feb-07,Feb-19
+40,Los Angeles, United States,North America,XXIII,—,Summer,1984,Jul-28,Aug-12
+41,Calgary, Canada,North America,—,XV,Winter,1988,Feb-13,Feb-28
+42,Seoul, South Korea,Asia,XXIV,—,Summer,1988,Sep-17,Oct-02
+43,Albertville, France,Europe,—,XVI,Winter,1992,Feb-08,Feb-23
+44,Barcelona, Spain,Europe,XXV,—,Summer,1992,Jul-25,Aug-09
+45,Lillehammer, Norway,Europe,—,XVII,Winter,1994,Feb-12,Feb-27
+46,Atlanta, United States,North America,XXVI,—,Summer,1996,Jul-19,Aug-04
+47,Nagano, Japan,Asia,—,XVIII,Winter,1998,Feb-07,Feb-22
+48,Sydney, Australia,Oceania,XXVII,—,Summer,2000,Sep-15,Oct-01
+49,Salt Lake City, United States,North America,—,XIX,Winter,2002,Feb-08,Feb-24
+50,Athens, Greece,Europe,XXVIII,—,Summer,2004,Aug-13,Aug-29
+51,Turin, Italy,Europe,—,XX,Winter,2006,Feb-10,Feb-26
+52,Beijing, China,Asia,XXIX,—,Summer,2008,Aug-08,Aug-24
+53,Vancouver, Canada,North America,—,XXI,Winter,2010,Feb-12,Feb-28
+54,London, United Kingdom,Europe,XXX,—,Summer,2012,Jul-27,Aug-12
+55,Sochi, Russia,Europe,—,XXII,Winter,2014,Feb-07,Feb-23
+56,Rio de Janeiro, Brazil,South America,XXXI,—,Summer,2016,Aug-05,Aug-21
+57,Pyeongchang, South Korea,Asia,—,XXIII,Winter,2018,Feb-09,Feb-25
+58,Tokyo, Japan,Asia,XXXII,—,Summer,2020,Jul-24,Aug-09
+,,,,,,,,,
+For other more formats kindly visit www.downloadexcelfiles.com,,,,,,,,,
+,,,,,,,,,
+Original source : en.wikipedia.org/wiki/List_of_Olympic_Games_host_cities,,,,,,,,,
